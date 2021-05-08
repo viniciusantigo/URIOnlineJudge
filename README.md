@@ -3,3 +3,4 @@ Resolução das questões do [URI Online Judge](https://www.urionlinejudge.com.b
 
 Resoluções em: 
 * Python 3
+* Java 11
